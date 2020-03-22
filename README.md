@@ -1,2 +1,2 @@
 # Data-Analysis
-Experimentation with different python libraries for data analysis.
+Experiments with different python libraries for data analysis.
